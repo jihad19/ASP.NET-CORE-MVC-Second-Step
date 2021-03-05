@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pMsSP5sMahcS58ZWDQ4ogX6lFqoBFOSpJcDel8liA2d6/I8wM2ktWwvm1z1N5vooKlM6f6K1DBzDosufQsAU5Q==",
+  "dgSpecHash": "C2jzXuEEVS2bHGJA3aLOoivl6mknERY5i97MK1QD/tJBk6p7u0N0NbFApwWEnVjmEWdAZ3a3ITixyA481IJHbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jihad\\Desktop\\C# copie\\Role\\GestionsEtudiants2\\GestionsEtudiants2\\GestionsEtudiants2.csproj",
+  "projectFilePath": "C:\\Users\\Jihad\\Documents\\GitHub\\ASP.NET-CORE-MVC-Second-Step\\roles\\GestionsEtudiants2\\GestionsEtudiants2\\GestionsEtudiants2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jihad\\.nuget\\packages\\microsoft.aspnetcore.authentication.facebook\\3.1.1\\microsoft.aspnetcore.authentication.facebook.3.1.1.nupkg.sha512",
     "C:\\Users\\Jihad\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\3.1.1\\microsoft.aspnetcore.authentication.google.3.1.1.nupkg.sha512",

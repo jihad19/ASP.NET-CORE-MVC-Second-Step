@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jihad\\Desktop\\C# copie\\Role\\GestionsEtudiants2\\GestionsEtudiants2\\GestionsEtudiants2.csproj": {}
+    "C:\\Users\\Jihad\\Documents\\GitHub\\ASP.NET-CORE-MVC-Second-Step\\roles\\GestionsEtudiants2\\GestionsEtudiants2\\GestionsEtudiants2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jihad\\Desktop\\C# copie\\Role\\GestionsEtudiants2\\GestionsEtudiants2\\GestionsEtudiants2.csproj": {
+    "C:\\Users\\Jihad\\Documents\\GitHub\\ASP.NET-CORE-MVC-Second-Step\\roles\\GestionsEtudiants2\\GestionsEtudiants2\\GestionsEtudiants2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jihad\\Desktop\\C# copie\\Role\\GestionsEtudiants2\\GestionsEtudiants2\\GestionsEtudiants2.csproj",
+        "projectUniqueName": "C:\\Users\\Jihad\\Documents\\GitHub\\ASP.NET-CORE-MVC-Second-Step\\roles\\GestionsEtudiants2\\GestionsEtudiants2\\GestionsEtudiants2.csproj",
         "projectName": "GestionsEtudiants2",
-        "projectPath": "C:\\Users\\Jihad\\Desktop\\C# copie\\Role\\GestionsEtudiants2\\GestionsEtudiants2\\GestionsEtudiants2.csproj",
+        "projectPath": "C:\\Users\\Jihad\\Documents\\GitHub\\ASP.NET-CORE-MVC-Second-Step\\roles\\GestionsEtudiants2\\GestionsEtudiants2\\GestionsEtudiants2.csproj",
         "packagesPath": "C:\\Users\\Jihad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jihad\\Desktop\\C# copie\\Role\\GestionsEtudiants2\\GestionsEtudiants2\\obj\\",
+        "outputPath": "C:\\Users\\Jihad\\Documents\\GitHub\\ASP.NET-CORE-MVC-Second-Step\\roles\\GestionsEtudiants2\\GestionsEtudiants2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
